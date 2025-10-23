@@ -1,4 +1,4 @@
-# Web Programming E Midterm Exam
+# Web Programming D Midterm Exam
 
 | Name | NRP |
 | ------ | ------ |
